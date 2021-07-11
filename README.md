@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vickykadam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 hello-world
+- 👀 ===========
+- 🌱 
+- 💞️ -just another repository
+- 📫 +hubot here, i like node.js and coffee them far superior to earth tacos.
 
 <!---
 vickykadam/vickykadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
